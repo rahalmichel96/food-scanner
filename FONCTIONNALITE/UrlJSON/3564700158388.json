@@ -1,0 +1,1039 @@
+{
+  "status": 1,
+  "product": {
+    "stores_tags": [
+      "leclerc"
+    ],
+    "categories_lc": "fr",
+    "completed_t": 1445081496,
+    "additives_tags": [
+      "en:e501"
+    ],
+    "nutrition_grades_tags": [
+      "b"
+    ],
+    "countries": "France",
+    "labels_prev_hierarchy": [],
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "carbon_footprint_from_known_ingredients_debug": "de:weichweizenmehl 67% x 1.2 = 80.4 g - en:durum-wheat-flour 17% x 1.2 = 20.4 g - en:egg 15% x 2.6 = 39 g - ",
+    "nutriscore_score": 0,
+    "id": "3564700158388",
+    "image_ingredients_thumb_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.100.jpg",
+    "allergens": "",
+    "selected_images": {
+      "nutrition": {
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.400.jpg"
+        },
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.100.jpg"
+        }
+      },
+      "front": {
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.100.jpg"
+        },
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.400.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.400.jpg"
+        },
+        "small": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.100.jpg"
+        }
+      }
+    },
+    "preparation_fr": "Faire bouillir environ 2 litres d'eau non salée dans une casserole. Ajouter les nouilles. Eteindre le feu et couvrir pendant 4 minutes. Détacher les nouilles à la fourchette. Egoutter.",
+    "traces_tags": [
+      "en:milk",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "no_nutrition_data": "",
+    "sources": [
+      {
+        "import_t": 1561379124,
+        "id": "scamark",
+        "fields": [
+          "product_name_fr",
+          "net_weight_value",
+          "net_weight_unit",
+          "nutrition_grade_fr_producer",
+          "preparation_fr",
+          "data_sources",
+          "traces",
+          "ingredients_text_fr"
+        ],
+        "images": [],
+        "url": "https://www.scamark.com",
+        "name": "Scamark",
+        "manufacturer": "1"
+      }
+    ],
+    "popularity_tags": [
+      "top-100000-scans-2020",
+      "top-90-percent-scans-2020",
+      "top-95-percent-scans-2020",
+      "top-50000-fr-scans-2020",
+      "top-100000-fr-scans-2020",
+      "top-country-fr-scans-2020",
+      "top-50000-scans-2019",
+      "top-100000-scans-2019",
+      "at-least-5-scans-2019",
+      "at-least-10-scans-2019",
+      "top-90-percent-scans-2019",
+      "top-95-percent-scans-2019",
+      "top-50000-fr-scans-2019",
+      "top-100000-fr-scans-2019",
+      "top-country-fr-scans-2019",
+      "at-least-5-fr-scans-2019",
+      "at-least-10-fr-scans-2019",
+      "top-1000-pt-scans-2019",
+      "top-5000-pt-scans-2019",
+      "top-10000-pt-scans-2019",
+      "top-50000-pt-scans-2019",
+      "top-100000-pt-scans-2019"
+    ],
+    "_id": "3564700158388",
+    "image_front_small_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.200.jpg",
+    "ingredients_analysis_tags": [
+      "en:palm-oil-free",
+      "en:non-vegan",
+      "en:vegetarian"
+    ],
+    "image_thumb_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.100.jpg",
+    "countries_debug_tags": [],
+    "ingredients_ids_debug": [
+      "farines",
+      "farine-de-ble-tendre",
+      "70",
+      "semoule-de-ble-dur",
+      "30",
+      "oeufs",
+      "15",
+      "sel"
+    ],
+    "countries_lc": "fr",
+    "misc_tags": [
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-all-nutriscore-values-known",
+      "en:nutriscore-computed"
+    ],
+    "data_quality_info_tags": [
+      "en:ingredients-percent-analysis-ok",
+      "en:nutrition-grade-fr-producer-same-ok",
+      "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+    ],
+    "additives_original_tags": [
+      "en:e501"
+    ],
+    "allergens_from_ingredients": "blé dur, oeufs",
+    "cities_tags": [
+      "queven-morbihan-france"
+    ],
+    "traces_from_ingredients": "lait, sésame, soja",
+    "origins": "",
+    "images": {
+      "1": {
+        "uploader": "angie",
+        "sizes": {
+          "100": {
+            "w": 56,
+            "h": 100
+          },
+          "400": {
+            "w": 225,
+            "h": 400
+          },
+          "full": {
+            "h": 2000,
+            "w": 1125
+          }
+        },
+        "uploaded_t": "1445079789"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 56,
+            "w": 100
+          },
+          "400": {
+            "h": 225,
+            "w": 400
+          },
+          "full": {
+            "h": 1125,
+            "w": 2000
+          }
+        },
+        "uploader": "angie",
+        "uploaded_t": "1445079850"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 56
+          },
+          "400": {
+            "w": 400,
+            "h": 225
+          },
+          "full": {
+            "h": 1125,
+            "w": 2000
+          }
+        },
+        "uploader": "angie",
+        "uploaded_t": "1445079900"
+      },
+      "4": {
+        "uploader": "kiliweb",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 3264,
+            "w": 2448
+          }
+        },
+        "uploaded_t": "1503919903"
+      },
+      "5": {
+        "uploader": "kiliweb",
+        "sizes": {
+          "100": {
+            "h": 48,
+            "w": 100
+          },
+          "400": {
+            "w": 400,
+            "h": 191
+          },
+          "full": {
+            "h": 616,
+            "w": 1289
+          }
+        },
+        "uploaded_t": "1518701494"
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 1200,
+            "w": 900
+          }
+        },
+        "uploader": "kiliweb",
+        "uploaded_t": "1528882943"
+      },
+      "7": {
+        "uploader": "openfoodfacts-contributors",
+        "sizes": {
+          "100": {
+            "h": 83,
+            "w": 100
+          },
+          "400": {
+            "h": 331,
+            "w": 400
+          },
+          "full": {
+            "w": 2953,
+            "h": 2447
+          }
+        },
+        "uploaded_t": 1553538367
+      },
+      "8": {
+        "sizes": {
+          "100": {
+            "w": 56,
+            "h": 100
+          },
+          "400": {
+            "w": 224,
+            "h": 400
+          },
+          "full": {
+            "w": 336,
+            "h": 600
+          }
+        },
+        "uploader": "scamark",
+        "uploaded_t": 1561379124
+      },
+      "9": {
+        "uploaded_t": 1585939011,
+        "uploader": "kiliweb",
+        "sizes": {
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "w": 899,
+            "h": 1200
+          }
+        }
+      },
+      "10": {
+        "uploaded_t": 1585939011,
+        "uploader": "kiliweb",
+        "sizes": {
+          "100": {
+            "h": 86,
+            "w": 100
+          },
+          "400": {
+            "h": 345,
+            "w": 400
+          },
+          "full": {
+            "h": 1200,
+            "w": 1392
+          }
+        }
+      },
+      "nutrition_fr": {
+        "x1": "-1",
+        "rev": "29",
+        "y2": "-1",
+        "white_magic": null,
+        "normalize": null,
+        "imgid": "10",
+        "geometry": "0x0--1--1",
+        "y1": "-1",
+        "angle": 0,
+        "sizes": {
+          "100": {
+            "h": 86,
+            "w": 100
+          },
+          "200": {
+            "h": 172,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 345
+          },
+          "full": {
+            "h": 1200,
+            "w": 1392
+          }
+        },
+        "x2": "-1"
+      },
+      "ingredients_fr": {
+        "ocr": 1,
+        "x2": null,
+        "orientation": "0",
+        "sizes": {
+          "100": {
+            "w": 75,
+            "h": 100
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "w": 900,
+            "h": 1200
+          }
+        },
+        "x1": null,
+        "angle": null,
+        "geometry": "0x0-0-0",
+        "y1": null,
+        "imgid": "6",
+        "y2": null,
+        "normalize": "0",
+        "white_magic": "0",
+        "rev": "20"
+      },
+      "front": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 56
+          },
+          "200": {
+            "h": 200,
+            "w": 113
+          },
+          "400": {
+            "h": 400,
+            "w": 225
+          },
+          "full": {
+            "h": 2000,
+            "w": 1125
+          }
+        },
+        "normalize": null,
+        "white_magic": null,
+        "rev": "3",
+        "geometry": "0x0--5--5",
+        "imgid": "1"
+      },
+      "front_fr": {
+        "x2": "-1",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "w": 300,
+            "h": 400
+          },
+          "full": {
+            "w": 899,
+            "h": 1200
+          }
+        },
+        "x1": "-1",
+        "imgid": "9",
+        "y1": "-1",
+        "geometry": "0x0--1--1",
+        "angle": 0,
+        "rev": "27",
+        "normalize": null,
+        "y2": "-1",
+        "white_magic": null
+      },
+      "nutrition": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 34
+          },
+          "200": {
+            "h": 69,
+            "w": 200
+          },
+          "400": {
+            "w": 400,
+            "h": 137
+          },
+          "full": {
+            "h": 470,
+            "w": 1370
+          }
+        },
+        "imgid": "3",
+        "geometry": "1370x470-281-377",
+        "white_magic": "false",
+        "normalize": "false",
+        "rev": "8"
+      },
+      "ingredients": {
+        "sizes": {
+          "100": {
+            "w": 100,
+            "h": 58
+          },
+          "200": {
+            "h": 116,
+            "w": 200
+          },
+          "400": {
+            "h": 232,
+            "w": 400
+          },
+          "full": {
+            "h": 765,
+            "w": 1320
+          }
+        },
+        "geometry": "1320x765-161-258",
+        "imgid": "2",
+        "rev": "7",
+        "white_magic": "false",
+        "normalize": "false"
+      }
+    },
+    "emb_codes_orig": "EMB 56185",
+    "nutrition_score_beverage": 0,
+    "nutriscore_data": {
+      "is_fat": 0,
+      "sugars_value": 2.4,
+      "fiber": 3.2,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 0,
+      "fiber_value": 3.2,
+      "proteins_value": 13.2,
+      "grade": "b",
+      "sugars": 2.4,
+      "saturated_fat_ratio_points": 3,
+      "is_cheese": 0,
+      "sodium": 400,
+      "saturated_fat": 0.8,
+      "saturated_fat_points": 0,
+      "sodium_points": 4,
+      "is_beverage": 0,
+      "positive_points": 8,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils": 0,
+      "sugars_points": 0,
+      "is_water": 0,
+      "energy": 1541,
+      "sodium_value": 400,
+      "proteins": 13.2,
+      "proteins_points": 5,
+      "fiber_points": 3,
+      "negative_points": 8,
+      "saturated_fat_value": 0.8,
+      "saturated_fat_ratio": 22.8571428571429,
+      "energy_value": 1541,
+      "saturated_fat_ratio_value": 22.9,
+      "energy_points": 4,
+      "score": 0,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0
+    },
+    "labels": "",
+    "states": "en:to-be-checked, en:complete, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-completed, en:packaging-code-completed, en:characteristics-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-validated, en:photos-uploaded",
+    "additives_prev_original_tags": [],
+    "informers_tags": [
+      "angie",
+      "kiliweb",
+      "yuka.WVA0dUtMeFp0S0FtcHZjeTNpanEwUGw2K01LRWRFZXVKYk5PSVE9PQ",
+      "scamark"
+    ],
+    "pnns_groups_1": "unknown",
+    "lc": "fr",
+    "serving_size": "100 g",
+    "new_additives_n": 0,
+    "lang": "fr",
+    "data_quality_bugs_tags": [],
+    "brands_tags": [
+      "marque-repere",
+      "tables-du-monde"
+    ],
+    "packaging": "Carton,Plastique",
+    "nucleotides_tags": [],
+    "states_tags": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-completed",
+      "en:packaging-code-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "purchase_places_tags": [
+      "chateaudun",
+      "france"
+    ],
+    "interface_version_created": "20120622",
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "entry_dates_tags": [
+      "2015-10-17",
+      "2015-10",
+      "2015"
+    ],
+    "max_imgid": "10",
+    "vitamins_tags": [],
+    "additives_old_tags": [
+      "en:e501"
+    ],
+    "other_nutritional_substances_tags": [],
+    "data_sources_tags": [
+      "producers",
+      "producer-scamark",
+      "app-yuka",
+      "apps"
+    ],
+    "created_t": 1445079789,
+    "nutrient_levels": {
+      "salt": "moderate",
+      "fat": "moderate",
+      "sugars": "low",
+      "saturated-fat": "low"
+    },
+    "completeness": 1,
+    "net_weight_value": "250",
+    "nutrition_data_prepared_per": "100g",
+    "image_nutrition_small_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.200.jpg",
+    "generic_name_fr": "Pâtes façon chinoise aux oeufs",
+    "languages_hierarchy": [
+      "en:french"
+    ],
+    "nova_group": 3,
+    "nutriscore_grade": "b",
+    "pnns_groups_1_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "ingredients_tags": [
+      "de:weichweizenmehl",
+      "en:cereal",
+      "en:flour",
+      "en:wheat",
+      "en:cereal-flour",
+      "en:wheat-flour",
+      "en:durum-wheat-flour",
+      "en:egg",
+      "en:salt",
+      "en:acidity-regulator",
+      "en:e501"
+    ],
+    "categories_tags": [
+      "fr:pates-facon-chinoise-aux-oeufs"
+    ],
+    "ingredients_debug": [
+      "Farines ",
+      "(",
+      "(",
+      null,
+      null,
+      "farine de blé tendre ",
+      "(",
+      "(",
+      null,
+      null,
+      "70 %)",
+      ",",
+      null,
+      null,
+      null,
+      " semoule de blé dur ",
+      "(",
+      "(",
+      null,
+      null,
+      "30 %) )",
+      ",",
+      null,
+      null,
+      null,
+      " œufs ",
+      "(",
+      "(",
+      null,
+      null,
+      "15 %)",
+      ",",
+      null,
+      null,
+      null,
+      " sel."
+    ],
+    "languages": {
+      "en:french": 7
+    },
+    "ingredients_text": "Farine de blé tendre 67%, farine de blé dur 17%, oeufs 15%, sel, correcteur d'acidité : E501.\nTraces de lait, sésame et soja.",
+    "languages_tags": [
+      "en:french",
+      "en:1"
+    ],
+    "pnns_groups_2": "unknown",
+    "nutrition_data_per_debug_tags": [],
+    "stores": "Leclerc",
+    "traces": "en:milk,en:sesame-seeds,en:soybeans",
+    "unknown_ingredients_n": 0,
+    "nucleotides_prev_tags": [],
+    "ingredients_from_palm_oil_tags": [],
+    "brands": "marque repère,tables du monde",
+    "ingredients_n": 6,
+    "interface_version_modified": "20150316.jqm2",
+    "image_nutrition_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.400.jpg",
+    "rev": 29,
+    "nova_groups": "3",
+    "allergens_tags": [
+      "en:eggs",
+      "en:gluten"
+    ],
+    "nutrition_data": "on",
+    "generic_name": "Pâtes façon chinoise aux oeufs",
+    "labels_prev_tags": [],
+    "nutrition_grade_fr": "b",
+    "carbon_footprint_percent_of_known_ingredients": 99,
+    "minerals_tags": [],
+    "emb_codes": "EMB 56185",
+    "additives_n": 1,
+    "amino_acids_prev_tags": [],
+    "allergens_hierarchy": [
+      "en:eggs",
+      "en:gluten"
+    ],
+    "nutriments": {
+      "fat": 3.5,
+      "fiber": 3.2,
+      "salt_unit": "g",
+      "energy_100g": 1541,
+      "carbon-footprint-from-known-ingredients_product": 350,
+      "saturated-fat_100g": 0.8,
+      "fat_value": 3.5,
+      "sugars_value": 2.4,
+      "salt_100g": 1,
+      "sodium_serving": 0.4,
+      "sugars": 2.4,
+      "fiber_100g": 3.2,
+      "carbohydrates_100g": 68.3,
+      "energy-kj": 1541,
+      "saturated-fat_value": 0.8,
+      "proteins_value": 13.2,
+      "fiber_value": 3.2,
+      "nutrition-score-fr_100g": 0,
+      "energy-kj_100g": 1541,
+      "proteins_unit": "g",
+      "energy_unit": "kJ",
+      "carbon-footprint-from-known-ingredients_serving": 140,
+      "saturated-fat": 0.8,
+      "salt": 1,
+      "salt_value": 1,
+      "fiber_serving": 3.2,
+      "saturated-fat_unit": "g",
+      "salt_serving": 1,
+      "energy-kj_unit": "kJ",
+      "carbohydrates_value": 68.3,
+      "sodium": 0.4,
+      "energy-kj_serving": 1540,
+      "sodium_unit": "g",
+      "sugars_unit": "g",
+      "saturated-fat_serving": 0.8,
+      "fat_unit": "g",
+      "energy_serving": 1540,
+      "sugars_serving": 2.4,
+      "fat_serving": 3.5,
+      "energy-kj_value": 1541,
+      "nova-group_100g": 3,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 0,
+      "carbon-footprint-from-known-ingredients_100g": 139.8,
+      "sodium_value": 0.4,
+      "energy": 1541,
+      "sugars_100g": 2.4,
+      "proteins": 13.2,
+      "fiber_unit": "g",
+      "proteins_serving": 13.2,
+      "nova-group": 3,
+      "carbohydrates_unit": "g",
+      "energy_value": 1541,
+      "fat_100g": 3.5,
+      "carbohydrates_serving": 68.3,
+      "nova-group_serving": 3,
+      "proteins_100g": 13.2,
+      "carbohydrates": 68.3,
+      "sodium_100g": 0.4,
+      "nutrition-score-fr": 0
+    },
+    "last_modified_by": "kiliweb",
+    "categories": "Pâtes facon chinoise aux oeufs",
+    "image_front_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.400.jpg",
+    "ingredients_hierarchy": [
+      "de:weichweizenmehl",
+      "en:cereal",
+      "en:flour",
+      "en:wheat",
+      "en:cereal-flour",
+      "en:wheat-flour",
+      "en:durum-wheat-flour",
+      "en:egg",
+      "en:salt",
+      "en:acidity-regulator",
+      "en:e501"
+    ],
+    "last_image_dates_tags": [
+      "2020-04-03",
+      "2020-04",
+      "2020"
+    ],
+    "data_quality_tags": [
+      "en:ingredients-percent-analysis-ok",
+      "en:nutrition-grade-fr-producer-same-ok",
+      "en:carbon-footprint-from-known-ingredients-but-not-from-meat-or-fish"
+    ],
+    "languages_codes": {
+      "fr": 7
+    },
+    "product_name_fr": "Pâtes chinoises aux oeufs",
+    "traces_lc": "fr",
+    "allergens_from_user": "(fr) ",
+    "ingredients_n_tags": [
+      "6",
+      "1-10"
+    ],
+    "ingredients_from_palm_oil_n": 0,
+    "scans_n": 85,
+    "traces_from_user": "(fr) en:milk,en:sesame-seeds,en:soybeans",
+    "data_quality_warnings_tags": [],
+    "ingredients": [
+      {
+        "id": "de:weichweizenmehl",
+        "percent_min": "67",
+        "vegan": "yes",
+        "rank": 1,
+        "percent_max": "67",
+        "percent": "67",
+        "vegetarian": "yes",
+        "text": "Farine de blé tendre"
+      },
+      {
+        "rank": 2,
+        "percent_max": "17",
+        "percent": "17",
+        "text": "farine de blé dur",
+        "vegetarian": "yes",
+        "id": "en:durum-wheat-flour",
+        "percent_min": "17",
+        "vegan": "yes"
+      },
+      {
+        "percent_max": "15",
+        "rank": 3,
+        "text": "oeufs",
+        "vegetarian": "yes",
+        "percent": "15",
+        "vegan": "no",
+        "id": "en:egg",
+        "percent_min": "15"
+      },
+      {
+        "percent_min": 0.5,
+        "id": "en:salt",
+        "rank": 4,
+        "percent_max": 1,
+        "vegan": "yes",
+        "text": "sel",
+        "vegetarian": "yes"
+      },
+      {
+        "text": "correcteur d'acidité",
+        "percent_max": 0.5,
+        "has_sub_ingredients": "yes",
+        "percent_min": 0,
+        "rank": 5,
+        "id": "en:acidity-regulator"
+      },
+      {
+        "text": "e501",
+        "vegetarian": "yes",
+        "percent_max": 0.5,
+        "vegan": "yes",
+        "percent_min": 0,
+        "id": "en:e501"
+      }
+    ],
+    "ingredients_text_debug": "Farines (farine de blé tendre (70 %), semoule de blé dur (30 %) ), œufs (15 %), sel.",
+    "_keywords": [
+      "monde",
+      "du",
+      "marque",
+      "chinoise",
+      "pate",
+      "facon",
+      "repere",
+      "table",
+      "aux",
+      "oeuf"
+    ],
+    "additives_old_n": 1,
+    "image_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.400.jpg",
+    "minerals_prev_tags": [],
+    "nova_group_debug": " -- ingredients/en:salt : 3",
+    "last_edit_dates_tags": [
+      "2020-04-03",
+      "2020-04",
+      "2020"
+    ],
+    "labels_hierarchy": [],
+    "unknown_nutrients_tags": [],
+    "link": "",
+    "creator": "angie",
+    "countries_tags": [
+      "en:france"
+    ],
+    "traces_hierarchy": [
+      "en:milk",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "editors": [
+      "angie"
+    ],
+    "quantity": "250 g",
+    "labels_lc": "fr",
+    "serving_quantity": "100",
+    "categories_hierarchy": [
+      "fr:Pâtes facon chinoise aux oeufs"
+    ],
+    "update_key": "ingredients20200329",
+    "code": "3564700158388",
+    "origins_tags": [],
+    "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.100.jpg",
+    "last_image_t": 1585939012,
+    "data_quality_errors_tags": [],
+    "emb_codes_20141016": "EMB 56185",
+    "ingredients_text_with_allergens_fr": "Farine de blé tendre 67%, farine de <span class=\"allergen\">blé dur</span> 17%, <span class=\"allergen\">oeufs</span> 15%, sel, correcteur d'acidité : E501.\nTraces de <span class=\"allergen\">lait</span>, <span class=\"allergen\">sésame</span> et <span class=\"allergen\">soja</span>.",
+    "purchase_places": "Châteaudun,France",
+    "countries_hierarchy": [
+      "en:france"
+    ],
+    "nutrition_grade_fr_producer": "b",
+    "vitamins_prev_tags": [],
+    "manufacturing_places_tags": [
+      "belgique"
+    ],
+    "additives_debug_tags": [],
+    "pnns_groups_2_tags": [
+      "unknown",
+      "missing-association"
+    ],
+    "ingredients_original_tags": [
+      "de:weichweizenmehl",
+      "en:durum-wheat-flour",
+      "en:egg",
+      "en:salt",
+      "en:acidity-regulator",
+      "en:e501"
+    ],
+    "labels_tags": [],
+    "product_name": "Pâtes chinoises aux oeufs",
+    "complete": 1,
+    "sortkey": 301585939012,
+    "ingredients_text_with_allergens": "Farine de blé tendre 67%, farine de <span class=\"allergen\">blé dur</span> 17%, <span class=\"allergen\">oeufs</span> 15%, sel, correcteur d'acidité : E501.\nTraces de <span class=\"allergen\">lait</span>, <span class=\"allergen\">sésame</span> et <span class=\"allergen\">soja</span>.",
+    "codes_tags": [
+      "code-13",
+      "3564700158xxx",
+      "356470015xxxx",
+      "35647001xxxxx",
+      "3564700xxxxxx",
+      "356470xxxxxxx",
+      "35647xxxxxxxx",
+      "3564xxxxxxxxx",
+      "356xxxxxxxxxx",
+      "35xxxxxxxxxxx",
+      "3xxxxxxxxxxxx"
+    ],
+    "checkers_tags": [],
+    "net_weight_unit": "g",
+    "manufacturing_places": "Belgique",
+    "data_sources": "Producers, Producer - Scamark, App - yuka, Apps",
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 0,
+    "product_name_debug_tags": [],
+    "photographers_tags": [
+      "angie",
+      "kiliweb",
+      "openfoodfacts-contributors",
+      "scamark"
+    ],
+    "emb_codes_tags": [
+      "emb-56185"
+    ],
+    "nutrition_grades": "b",
+    "amino_acids_tags": [],
+    "image_ingredients_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.400.jpg",
+    "states_hierarchy": [
+      "en:to-be-checked",
+      "en:complete",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-completed",
+      "en:packaging-code-completed",
+      "en:characteristics-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-validated",
+      "en:photos-uploaded"
+    ],
+    "expiration_date": "19/02/2015",
+    "unique_scans_n": 58,
+    "packaging_tags": [
+      "carton",
+      "plastique"
+    ],
+    "image_nutrition_thumb_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/nutrition_fr.29.100.jpg",
+    "editors_tags": [
+      "yuka.YktveU5LMHh2dEFwa3ZjYytSM3A1dlJYNlk2UkIwVzRMK1l6SUE9PQ",
+      "angie",
+      "yuka.ZW9OY0lwc2RpdE1hcDlvVS9SNkkxdXBVNjhiNVEzSHBJT05LSUE9PQ",
+      "yuka.WVA0dUtMeFp0S0FtcHZjeTNpanEwUGw2K01LRWRFZXVKYk5PSVE9PQ",
+      "openfoodfacts-contributors",
+      "scamark",
+      "yuka.Vi9BWk1md2ZtdVpUbGZBdjNCS08yOTFmNjUzeVkwcXRMK1VKSWc9PQ",
+      "kiliweb",
+      "yuka.UzROZFBJWlpuTmRVb3NJeXdDemZ3L1lxL0xiNWVuMklKK1l6SUE9PQ"
+    ],
+    "ingredients_text_fr": "Farine de blé tendre 67%, farine de blé dur 17%, oeufs 15%, sel, correcteur d'acidité : E501.\nTraces de lait, sésame et soja.",
+    "nova_groups_tags": [
+      "en:3-processed-foods"
+    ],
+    "last_editor": "kiliweb",
+    "last_modified_t": 1585939012,
+    "nutrition_data_per": "100g",
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "nutrient_levels_tags": [
+      "en:fat-in-moderate-quantity",
+      "en:saturated-fat-in-low-quantity",
+      "en:sugars-in-low-quantity",
+      "en:salt-in-moderate-quantity"
+    ],
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "correctors_tags": [
+      "angie",
+      "kiliweb",
+      "openfoodfacts-contributors",
+      "yuka.ZW9OY0lwc2RpdE1hcDlvVS9SNkkxdXBVNjhiNVEzSHBJT05LSUE9PQ",
+      "yuka.WVA0dUtMeFp0S0FtcHZjeTNpanEwUGw2K01LRWRFZXVKYk5PSVE9PQ",
+      "yuka.YktveU5LMHh2dEFwa3ZjYytSM3A1dlJYNlk2UkIwVzRMK1l6SUE9PQ",
+      "yuka.UzROZFBJWlpuTmRVb3NJeXdDemZ3L1lxL0xiNWVuMklKK1l6SUE9PQ",
+      "scamark"
+    ],
+    "product_quantity": "250",
+    "preparation": "Faire bouillir environ 2 litres d'eau non salée dans une casserole. Ajouter les nouilles. Eteindre le feu et couvrir pendant 4 minutes. Détacher les nouilles à la fourchette. Egoutter.",
+    "image_small_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/front_fr.27.200.jpg",
+    "image_ingredients_small_url": "https://static.openfoodfacts.org/images/products/356/470/015/8388/ingredients_fr.20.200.jpg"
+  },
+  "status_verbose": "product found",
+  "code": "3564700158388"
+}
