@@ -1,4 +1,0 @@
-#Thu Apr 02 18:45:44 CEST 2020
-base.0=C\:\\Users\\quentin\\Documents\\Code\\Android_Studio\\Zxing\\MyApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
